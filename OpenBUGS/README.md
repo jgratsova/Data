@@ -1,1 +1,1 @@
-Seven Scientists problem, showing the usage of MCMC inference
+'Seven Scientists' problem, showing the usage of MCMC inference
