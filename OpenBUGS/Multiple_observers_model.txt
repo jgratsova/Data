@@ -1,0 +1,17 @@
+model{
+
+  for (image in 1:N){
+	for ( observer in 1:M){
+    	x[observer,image] ~ dnorm( mu[image], lambda[observer])
+	}
+   }
+ 
+for (image in 1:N) {
+	mu[image] ~ dnorm(0, 0.001)
+}
+
+ for ( observer in 1:M ){
+    lambda[observer] ~ dgamma(0.001,0.001)
+    sigma[observer] <- 1/sqrt(lambda[observer])
+  }
+}
