@@ -1,0 +1,178 @@
+Agency Code,Agency Name,Agency Type,City,State,Year,Month,Incident,Crime Type,Crime Solved,Victim Sex,Victim Age,Victim Race,Victim Ethnicity,Perpetrator Sex,Perpetrator Age,Perpetrator Race,Perpetrator Ethnicity,Relationship,Weapon,Victim Count,Perpetrator Count,Source
+HI00100,Hawaii,County Police,Hawaii,Hawaii,1980,June,1,Murder or Manslaughter,Yes,Male,84,White,Not Hispanic,Male,50,White,Not Hispanic,Wife,Handgun,1,0,FBI
+HI00100,Hawaii,County Police,Hawaii,Hawaii,1980,January,2,Murder or Manslaughter,No,Male,30,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Rifle,0,1,FBI
+HI00100,Hawaii,County Police,Hawaii,Hawaii,1980,February,1,Murder or Manslaughter,No,Male,35,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,1,FBI
+HI00100,Hawaii,County Police,Hawaii,Hawaii,1980,April,1,Murder or Manslaughter,No,Male,27,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,1,FBI
+HI00100,Hawaii,County Police,Hawaii,Hawaii,1980,April,2,Murder or Manslaughter,No,Male,25,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,1,FBI
+HI00100,Hawaii,County Police,Hawaii,Hawaii,1980,June,1,Murder or Manslaughter,Yes,Female,42,Asian/Pacific Islander,Not Hispanic,Male,50,White,Not Hispanic,Wife,Handgun,1,0,FBI
+HI00100,Hawaii,County Police,Hawaii,Hawaii,1980,July,1,Murder or Manslaughter,Yes,Male,21,White,Not Hispanic,Male,18,Asian/Pacific Islander,Not Hispanic,Stranger,Knife,0,3,FBI
+HI00100,Hawaii,County Police,Hawaii,Hawaii,1980,September,1,Murder or Manslaughter,Yes,Male,39,White,Not Hispanic,Male,40,White,Not Hispanic,Brother,Knife,0,0,FBI
+HI00100,Hawaii,County Police,Hawaii,Hawaii,1980,October,1,Murder or Manslaughter,No,Male,24,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+HI00100,Hawaii,County Police,Hawaii,Hawaii,1980,November,1,Murder or Manslaughter,Yes,Male,30,Asian/Pacific Islander,Not Hispanic,Male,35,White,Not Hispanic,Stranger,Rifle,0,0,FBI
+HI00101,Hilo,Municipal Police,Hawaii,Hawaii,1980,June,1,Manslaughter by Negligence,Yes,Male,25,White,Not Hispanic,Male,25,Asian/Pacific Islander,Not Hispanic,Friend,Rifle,0,0,FBI
+HI00101,Hilo,Municipal Police,Hawaii,Hawaii,1980,July,1,Murder or Manslaughter,No,Male,32,White,Not Hispanic,Unknown,0,Unknown,Unknown,Acquaintance,Knife,0,0,FBI
+HI00101,Hilo,Municipal Police,Hawaii,Hawaii,1980,September,1,Murder or Manslaughter,Yes,Male,64,White,Not Hispanic,Male,27,White,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,August,2,Murder or Manslaughter,Yes,Female,71,Asian/Pacific Islander,Not Hispanic,Male,36,White,Not Hispanic,Acquaintance,Fire,2,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,January,3,Murder or Manslaughter,Yes,Male,37,White,Unknown,Male,32,White,Unknown,Stranger,Handgun,1,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,May,1,Murder or Manslaughter,Yes,Female,33,White,Not Hispanic,Male,35,Asian/Pacific Islander,Not Hispanic,Acquaintance,Handgun,1,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,August,2,Murder or Manslaughter,Yes,Female,60,Asian/Pacific Islander,Not Hispanic,Male,36,White,Not Hispanic,Acquaintance,Fire,2,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,September,2,Murder or Manslaughter,No,Male,21,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,1,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,October,5,Murder or Manslaughter,Yes,Male,39,White,Not Hispanic,Male,36,Asian/Pacific Islander,Not Hispanic,Unknown,Handgun,1,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,January,1,Murder or Manslaughter,No,Female,5,Asian/Pacific Islander,Unknown,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,January,2,Murder or Manslaughter,Yes,Male,30,White,Unknown,Male,43,White,Unknown,Unknown,Knife,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,January,3,Murder or Manslaughter,Yes,Male,35,White,Unknown,Male,32,White,Unknown,Stranger,Handgun,1,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,January,4,Murder or Manslaughter,Yes,Male,20,Asian/Pacific Islander,Unknown,Male,23,White,Unknown,Acquaintance,Handgun,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,January,5,Murder or Manslaughter,No,Male,62,Asian/Pacific Islander,Unknown,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,February,1,Murder or Manslaughter,Yes,Male,53,Asian/Pacific Islander,Unknown,Male,61,Asian/Pacific Islander,Unknown,Stranger,Handgun,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,February,2,Murder or Manslaughter,No,Male,24,Asian/Pacific Islander,Unknown,Unknown,0,Unknown,Unknown,Unknown,Shotgun,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,February,3,Murder or Manslaughter,No,Male,31,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,February,4,Murder or Manslaughter,No,Female,55,Asian/Pacific Islander,Unknown,Unknown,0,Unknown,Unknown,Unknown,Knife,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,February,5,Murder or Manslaughter,Yes,Male,39,Asian/Pacific Islander,Unknown,Male,23,Asian/Pacific Islander,Unknown,Stranger,Blunt Object,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,February,6,Murder or Manslaughter,No,Male,35,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,February,7,Murder or Manslaughter,No,Male,38,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,March,1,Murder or Manslaughter,Yes,Male,66,Asian/Pacific Islander,Unknown,Male,21,Asian/Pacific Islander,Unknown,Stranger,Blunt Object,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,March,2,Murder or Manslaughter,Yes,Male,56,Asian/Pacific Islander,Unknown,Male,36,Asian/Pacific Islander,Unknown,Friend,Knife,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,March,3,Murder or Manslaughter,Yes,Male,47,Asian/Pacific Islander,Unknown,Male,18,Asian/Pacific Islander,Unknown,Stranger,Blunt Object,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,March,4,Murder or Manslaughter,Yes,Male,78,Asian/Pacific Islander,Unknown,Male,78,Asian/Pacific Islander,Unknown,Neighbor,Rifle,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,March,5,Murder or Manslaughter,Yes,Female,60,White,Unknown,Male,65,White,Unknown,Wife,Handgun,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,March,6,Murder or Manslaughter,Yes,Female,43,White,Unknown,Male,47,White,Unknown,Ex-Wife,Handgun,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,March,7,Murder or Manslaughter,Yes,Female,53,Asian/Pacific Islander,Unknown,Male,26,Asian/Pacific Islander,Unknown,In-Law,Knife,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,April,1,Murder or Manslaughter,Yes,Male,33,White,Not Hispanic,Male,32,Asian/Pacific Islander,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,April,2,Murder or Manslaughter,Yes,Male,35,White,Not Hispanic,Female,32,Asian/Pacific Islander,Not Hispanic,Common-Law Husband,Handgun,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,April,3,Murder or Manslaughter,Yes,Female,22,White,Not Hispanic,Male,19,Asian/Pacific Islander,Hispanic,Acquaintance,Knife,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,April,4,Murder or Manslaughter,Yes,Male,33,Asian/Pacific Islander,Not Hispanic,Male,41,Asian/Pacific Islander,Not Hispanic,Stranger,Handgun,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,April,5,Murder or Manslaughter,Yes,Female,18,Asian/Pacific Islander,Not Hispanic,Male,26,Asian/Pacific Islander,Not Hispanic,Acquaintance,Handgun,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,May,1,Murder or Manslaughter,Yes,Male,29,Asian/Pacific Islander,Not Hispanic,Male,35,Asian/Pacific Islander,Not Hispanic,Acquaintance,Handgun,1,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,May,2,Murder or Manslaughter,Yes,Female,20,White,Not Hispanic,Male,23,Asian/Pacific Islander,Not Hispanic,Girlfriend,Handgun,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,May,3,Murder or Manslaughter,No,Male,51,Asian/Pacific Islander,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Rifle,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,May,4,Murder or Manslaughter,No,Female,8,Asian/Pacific Islander,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,May,5,Murder or Manslaughter,Yes,Male,70,White,Not Hispanic,Male,28,Asian/Pacific Islander,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,June,1,Murder or Manslaughter,Yes,Male,36,Asian/Pacific Islander,Not Hispanic,Male,29,Asian/Pacific Islander,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,June,2,Murder or Manslaughter,Yes,Male,29,Asian/Pacific Islander,Not Hispanic,Male,20,Asian/Pacific Islander,Not Hispanic,Stranger,Unknown,0,9,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,June,3,Murder or Manslaughter,Yes,Male,33,Asian/Pacific Islander,Not Hispanic,Male,29,Asian/Pacific Islander,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,June,4,Murder or Manslaughter,Yes,Male,23,White,Not Hispanic,Male,36,White,Not Hispanic,Stranger,Knife,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,June,5,Murder or Manslaughter,Yes,Male,54,Asian/Pacific Islander,Not Hispanic,Male,73,Asian/Pacific Islander,Not Hispanic,Stranger,Knife,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,June,6,Murder or Manslaughter,Yes,Male,4,Asian/Pacific Islander,Not Hispanic,Male,30,White,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,July,1,Murder or Manslaughter,Yes,Male,26,Asian/Pacific Islander,Not Hispanic,Male,33,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,July,2,Murder or Manslaughter,Yes,Male,53,White,Not Hispanic,Female,54,White,Not Hispanic,Husband,Handgun,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,July,3,Murder or Manslaughter,Yes,Female,29,White,Not Hispanic,Male,32,Asian/Pacific Islander,Not Hispanic,Wife,Knife,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,July,4,Murder or Manslaughter,No,Male,42,Asian/Pacific Islander,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,August,1,Murder or Manslaughter,No,Male,53,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,August,2,Murder or Manslaughter,Yes,Male,36,White,Not Hispanic,Male,36,White,Not Hispanic,Acquaintance,Fire,2,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,August,3,Murder or Manslaughter,Yes,Male,20,White,Not Hispanic,Male,30,White,Not Hispanic,Stranger,Blunt Object,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,August,4,Murder or Manslaughter,Yes,Male,25,Asian/Pacific Islander,Not Hispanic,Male,21,White,Hispanic,Acquaintance,Handgun,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,September,1,Murder or Manslaughter,No,Male,20,Asian/Pacific Islander,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,September,2,Murder or Manslaughter,No,Male,19,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,1,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,September,3,Murder or Manslaughter,Yes,Female,28,Asian/Pacific Islander,Not Hispanic,Female,42,White,Hispanic,Acquaintance,Rifle,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,September,4,Murder or Manslaughter,Yes,Male,38,Asian/Pacific Islander,Not Hispanic,Male,25,Asian/Pacific Islander,Not Hispanic,Unknown,Knife,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,September,5,Murder or Manslaughter,Yes,Male,21,Asian/Pacific Islander,Not Hispanic,Male,30,Asian/Pacific Islander,Not Hispanic,Acquaintance,Blunt Object,0,1,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,September,6,Murder or Manslaughter,Yes,Male,21,Asian/Pacific Islander,Not Hispanic,Male,23,Asian/Pacific Islander,Not Hispanic,Stranger,Blunt Object,0,2,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,October,1,Murder or Manslaughter,Yes,Female,22,Asian/Pacific Islander,Not Hispanic,Male,27,Asian/Pacific Islander,Not Hispanic,Girlfriend,Strangulation,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,October,2,Murder or Manslaughter,Yes,Female,26,White,Not Hispanic,Male,26,Black,Not Hispanic,Acquaintance,Suffocation,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,October,3,Murder or Manslaughter,Yes,Female,22,Asian/Pacific Islander,Not Hispanic,Male,22,White,Not Hispanic,Unknown,Rifle,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,October,4,Murder or Manslaughter,No,Male,71,Asian/Pacific Islander,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,October,5,Murder or Manslaughter,Yes,Female,27,White,Not Hispanic,Male,36,Asian/Pacific Islander,Not Hispanic,Unknown,Handgun,1,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,November,1,Murder or Manslaughter,No,Male,50,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,November,2,Murder or Manslaughter,No,Female,46,Asian/Pacific Islander,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,November,3,Murder or Manslaughter,Yes,Female,18,Asian/Pacific Islander,Not Hispanic,Female,23,Unknown,Not Hispanic,Friend,Knife,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,November,4,Murder or Manslaughter,Yes,Male,13,Asian/Pacific Islander,Not Hispanic,Male,36,Unknown,Not Hispanic,Son,Handgun,0,0,FBI
+HI00200,Honolulu,Municipal Police,Honolulu,Hawaii,1980,November,5,Murder or Manslaughter,Yes,Female,36,Asian/Pacific Islander,Not Hispanic,Male,43,Unknown,Not Hispanic,Ex-Wife,Knife,0,0,FBI
+HI00400,Kauai,County Police,Kauai,Hawaii,1980,January,1,Murder or Manslaughter,Yes,Female,19,Asian/Pacific Islander,Unknown,Male,49,Asian/Pacific Islander,Unknown,Girlfriend,Handgun,0,0,FBI
+HI00500,Maui,County Police,Maui,Hawaii,1980,January,1,Murder or Manslaughter,No,Male,50,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Knife,0,1,FBI
+HI00500,Maui,County Police,Maui,Hawaii,1980,February,1,Murder or Manslaughter,Yes,Male,42,White,Unknown,Male,26,White,Unknown,Acquaintance,Unknown,0,0,FBI
+HI00500,Maui,County Police,Maui,Hawaii,1980,March,1,Murder or Manslaughter,Yes,Female,63,Asian/Pacific Islander,Unknown,Male,23,Asian/Pacific Islander,Unknown,Mother,Knife,0,0,FBI
+HI00500,Maui,County Police,Maui,Hawaii,1980,April,1,Murder or Manslaughter,Yes,Male,22,Unknown,Not Hispanic,Male,21,Unknown,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+HI00500,Maui,County Police,Maui,Hawaii,1980,April,2,Murder or Manslaughter,No,Female,41,Unknown,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,1,FBI
+IA00300,Allamakee,Sheriff,Allamakee,Iowa,1980,January,1,Murder or Manslaughter,Yes,Female,3,White,Not Hispanic,Male,26,White,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+IA00401,Centerville,Municipal Police,Appanoose,Iowa,1980,February,1,Murder or Manslaughter,Yes,Male,58,Black,Not Hispanic,Male,60,White,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+IA00602,Vinton,Municipal Police,Benton,Iowa,1980,July,1,Murder or Manslaughter,Yes,Male,0,White,Not Hispanic,Female,32,White,Not Hispanic,Son,Suffocation,0,0,FBI
+IA00703,Waterloo,Municipal Police,Black Hawk,Iowa,1980,July,1,Murder or Manslaughter,Yes,Male,86,White,Not Hispanic,Male,16,Black,Not Hispanic,Stranger,Blunt Object,0,1,FBI
+IA00703,Waterloo,Municipal Police,Black Hawk,Iowa,1980,August,1,Murder or Manslaughter,Yes,Male,48,Black,Not Hispanic,Female,55,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+IA00703,Waterloo,Municipal Police,Black Hawk,Iowa,1980,August,2,Murder or Manslaughter,No,Male,32,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+IA01600,Cedar,Sheriff,Cedar,Iowa,1980,September,1,Murder or Manslaughter,No,Female,17,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+IA02300,Clinton,Sheriff,Clinton,Iowa,1980,February,1,Murder or Manslaughter,Yes,Female,23,White,Not Hispanic,Male,27,White,Not Hispanic,Wife,Shotgun,0,0,FBI
+IA02700,Decatur,Sheriff,Decatur,Iowa,1980,September,1,Murder or Manslaughter,Yes,Male,23,White,Not Hispanic,Female,24,White,Not Hispanic,Boyfriend,Shotgun,0,0,FBI
+IA02900,Des Moines,Sheriff,Des Moines,Iowa,1980,April,1,Murder or Manslaughter,No,Female,26,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,1,FBI
+IA02901,Burlington,Municipal Police,Des Moines,Iowa,1980,September,1,Murder or Manslaughter,Yes,Male,56,White,Not Hispanic,Male,19,White,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+IA02901,Burlington,Municipal Police,Des Moines,Iowa,1980,October,1,Murder or Manslaughter,Yes,Female,20,White,Not Hispanic,Male,26,White,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+IA02901,Burlington,Municipal Police,Des Moines,Iowa,1980,December,1,Murder or Manslaughter,Yes,Male,28,Black,Unknown,Female,19,Black,Unknown,Acquaintance,Knife,0,0,FBI
+IA03101,Dubuque,Municipal Police,Dubuque,Iowa,1980,January,1,Murder or Manslaughter,Yes,Male,36,White,Not Hispanic,Male,30,White,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+IA03101,Dubuque,Municipal Police,Dubuque,Iowa,1980,May,1,Murder or Manslaughter,Yes,Female,15,White,Not Hispanic,Male,31,Native American/Alaska Native,Hispanic,Stranger,Strangulation,0,0,FBI
+IA03500,Franklin,Sheriff,Franklin,Iowa,1980,December,1,Murder or Manslaughter,No,Male,27,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,1,1,FBI
+IA03500,Franklin,Sheriff,Franklin,Iowa,1980,December,1,Murder or Manslaughter,No,Female,19,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,1,1,FBI
+IA04800,Iowa,Sheriff,Iowa,Iowa,1980,September,1,Murder or Manslaughter,No,Male,32,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,1,0,FBI
+IA04800,Iowa,Sheriff,Iowa,Iowa,1980,September,1,Murder or Manslaughter,No,Female,22,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,1,0,FBI
+IA05602,Keokuk,Municipal Police,Lee,Iowa,1980,January,1,Murder or Manslaughter,Yes,Male,21,Black,Not Hispanic,Male,38,Black,Not Hispanic,Acquaintance,Shotgun,0,0,FBI
+IA05700,Linn,Sheriff,Linn,Iowa,1980,May,1,Murder or Manslaughter,Yes,Female,50,White,Not Hispanic,Male,50,White,Not Hispanic,Wife,Shotgun,0,0,FBI
+IA05701,Cedar Rapids,Municipal Police,Linn,Iowa,1980,February,1,Murder or Manslaughter,Yes,Male,27,Black,Not Hispanic,Male,25,Black,Not Hispanic,Acquaintance,Handgun,0,1,FBI
+IA06401,Marshalltown,Municipal Police,Marshall,Iowa,1980,August,1,Murder or Manslaughter,No,Female,31,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+IA07000,Muscatine,Sheriff,Muscatine,Iowa,1980,April,1,Murder or Manslaughter,No,Male,31,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,1,0,FBI
+IA07000,Muscatine,Sheriff,Muscatine,Iowa,1980,April,1,Murder or Manslaughter,No,Male,31,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,1,0,FBI
+IA07000,Muscatine,Sheriff,Muscatine,Iowa,1980,April,2,Murder or Manslaughter,No,Female,21,White,Not Hispanic,Unknown,0,Unknown,Unknown,Acquaintance,Knife,0,0,FBI
+IA07000,Muscatine,Sheriff,Muscatine,Iowa,1980,November,1,Murder or Manslaughter,Yes,Male,20,White,Not Hispanic,Male,21,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+IA07302,Shenandoah,Municipal Police,Page,Iowa,1980,May,1,Murder or Manslaughter,Yes,Male,39,Native American/Alaska Native,Not Hispanic,Male,19,Native American/Alaska Native,Not Hispanic,Father,Knife,0,0,FBI
+IA07700,Polk,Sheriff,Polk,Iowa,1980,February,1,Murder or Manslaughter,Yes,Male,49,White,Not Hispanic,Male,42,White,Not Hispanic,Acquaintance,Shotgun,0,2,FBI
+IA07700,Polk,Sheriff,Polk,Iowa,1980,April,1,Murder or Manslaughter,No,Female,18,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,1,FBI
+IA07700,Polk,Sheriff,Polk,Iowa,1980,May,1,Murder or Manslaughter,Yes,Female,16,White,Not Hispanic,Male,37,White,Not Hispanic,Acquaintance,Knife,0,0,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,July,1,Murder or Manslaughter,Yes,Female,66,White,Not Hispanic,Male,58,White,Not Hispanic,Family,Fire,2,0,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,July,1,Murder or Manslaughter,Yes,Male,4,White,Not Hispanic,Male,58,White,Not Hispanic,Family,Fire,2,0,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,January,1,Murder or Manslaughter,Yes,Male,99,Black,Not Hispanic,Male,21,Black,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,March,1,Murder or Manslaughter,Yes,Male,24,White,Not Hispanic,Male,25,Black,Not Hispanic,Acquaintance,Knife,0,0,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,April,1,Murder or Manslaughter,Yes,Male,20,Black,Not Hispanic,Male,25,White,Hispanic,Acquaintance,Handgun,0,0,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,April,2,Murder or Manslaughter,Yes,Male,22,White,Not Hispanic,Male,23,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,June,1,Murder or Manslaughter,Yes,Male,30,Black,Not Hispanic,Male,22,Black,Not Hispanic,Unknown,Handgun,0,0,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,June,2,Murder or Manslaughter,Yes,Male,20,White,Not Hispanic,Male,19,Black,Not Hispanic,Acquaintance,Rifle,0,2,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,July,1,Murder or Manslaughter,Yes,Male,1,White,Not Hispanic,Male,58,White,Not Hispanic,Family,Fire,2,0,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,July,4,Murder or Manslaughter,Yes,Male,21,Black,Not Hispanic,Female,20,Black,Not Hispanic,Boyfriend,Handgun,0,0,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,July,5,Murder or Manslaughter,Yes,Male,22,Black,Not Hispanic,Male,35,Black,Not Hispanic,Acquaintance,Knife,0,0,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,July,6,Murder or Manslaughter,Yes,Male,32,White,Not Hispanic,Male,32,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,August,1,Murder or Manslaughter,Yes,Male,39,Black,Not Hispanic,Female,38,Black,Not Hispanic,Common-Law Husband,Handgun,0,0,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,September,1,Murder or Manslaughter,Yes,Male,23,White,Not Hispanic,Male,31,White,Not Hispanic,Unknown,Handgun,0,0,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,September,2,Murder or Manslaughter,No,Male,43,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+IA07703,Des Moines,Municipal Police,Polk,Iowa,1980,December,1,Murder or Manslaughter,Yes,Male,29,Native American/Alaska Native,Not Hispanic,Male,31,White,Not Hispanic,Unknown,Handgun,0,0,FBI
+IA07705,West Des Moines,Municipal Police,Polk,Iowa,1980,February,1,Murder or Manslaughter,Yes,Female,14,White,Not Hispanic,Male,30,White,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+IA07801,Council Bluffs,Municipal Police,Pottawattamie,Iowa,1980,November,1,Murder or Manslaughter,Yes,Female,83,White,Not Hispanic,Male,27,White,Not Hispanic,Stranger,Knife,1,0,FBI
+IA07801,Council Bluffs,Municipal Police,Pottawattamie,Iowa,1980,January,1,Murder or Manslaughter,Yes,Male,29,White,Not Hispanic,Male,27,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+IA07801,Council Bluffs,Municipal Police,Pottawattamie,Iowa,1980,July,1,Murder or Manslaughter,Yes,Male,0,White,Not Hispanic,Male,26,White,Not Hispanic,Son,Blunt Object,0,0,FBI
+IA07801,Council Bluffs,Municipal Police,Pottawattamie,Iowa,1980,October,1,Murder or Manslaughter,Yes,Male,40,White,Not Hispanic,Male,37,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+IA07801,Council Bluffs,Municipal Police,Pottawattamie,Iowa,1980,November,1,Murder or Manslaughter,Yes,Male,80,White,Not Hispanic,Male,27,White,Not Hispanic,Stranger,Knife,1,0,FBI
+IA07900,Poweshiek,Sheriff,Poweshiek,Iowa,1980,January,1,Murder or Manslaughter,Yes,Male,25,White,Not Hispanic,Male,25,White,Not Hispanic,Family,Handgun,0,0,FBI
+IA07901,Grinnell,Municipal Police,Poweshiek,Iowa,1980,January,1,Murder or Manslaughter,Yes,Female,23,White,Not Hispanic,Male,25,White,Not Hispanic,Family,Handgun,0,0,FBI
+IA08202,Davenport,Municipal Police,Scott,Iowa,1980,May,1,Murder or Manslaughter,Yes,Male,31,White,Not Hispanic,Male,34,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+IA08202,Davenport,Municipal Police,Scott,Iowa,1980,July,1,Murder or Manslaughter,Yes,Male,22,Black,Not Hispanic,Male,22,Black,Not Hispanic,Acquaintance,Gun,0,0,FBI
+IA08202,Davenport,Municipal Police,Scott,Iowa,1980,October,1,Murder or Manslaughter,Yes,Male,24,Black,Not Hispanic,Male,23,Black,Not Hispanic,Stranger,Knife,0,0,FBI
+IA08202,Davenport,Municipal Police,Scott,Iowa,1980,December,1,Murder or Manslaughter,Yes,Male,22,White,Not Hispanic,Male,42,White,Not Hispanic,Stranger,Handgun,0,0,FBI
+IA08600,Tama,Sheriff,Tama,Iowa,1980,November,1,Murder or Manslaughter,Yes,Female,18,White,Not Hispanic,Male,23,White,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+IA08700,Taylor,Sheriff,Taylor,Iowa,1980,August,1,Murder or Manslaughter,Yes,Male,23,White,Not Hispanic,Male,43,White,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+IA09000,Wapello,Sheriff,Wapello,Iowa,1980,August,1,Murder or Manslaughter,Yes,Female,56,White,Unknown,Male,48,White,Unknown,Acquaintance,Fire,0,0,FBI
+IA09701,Sioux City,Municipal Police,Woodbury,Iowa,1980,November,1,Murder or Manslaughter,Yes,Male,76,White,Not Hispanic,Male,20,White,Not Hispanic,Acquaintance,Blunt Object,0,1,FBI
+ID00100,Ada,Sheriff,Ada,Idaho,1980,June,1,Murder or Manslaughter,No,Female,25,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Knife,0,0,FBI
+ID00100,Ada,Sheriff,Ada,Idaho,1980,October,1,Murder or Manslaughter,Yes,Male,42,White,Not Hispanic,Male,26,White,Not Hispanic,Boyfriend/Girlfriend,Handgun,0,0,FBI
+ID00101,Boise,Municipal Police,Ada,Idaho,1980,January,1,Manslaughter by Negligence,Yes,Male,84,White,Not Hispanic,Male,66,White,Not Hispanic,Unknown,Unknown,0,0,FBI
+ID00101,Boise,Municipal Police,Ada,Idaho,1980,February,1,Manslaughter by Negligence,Yes,Male,27,White,Not Hispanic,Male,33,White,Not Hispanic,Stranger,Unknown,0,0,FBI
+ID00101,Boise,Municipal Police,Ada,Idaho,1980,June,1,Murder or Manslaughter,Yes,Male,0,White,Not Hispanic,Male,26,White,Not Hispanic,Son,Blunt Object,0,0,FBI
+ID00101,Boise,Municipal Police,Ada,Idaho,1980,October,1,Murder or Manslaughter,Yes,Female,0,White,Not Hispanic,Male,23,White,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+ID00103,Meridian,Municipal Police,Ada,Idaho,1980,April,1,Murder or Manslaughter,Yes,Female,20,White,Not Hispanic,Male,19,White,Not Hispanic,Neighbor,Shotgun,0,0,FBI
+ID00300,Bannock,Sheriff,Bannock,Idaho,1980,September,1,Murder or Manslaughter,Yes,Male,40,White,Not Hispanic,Male,39,Native American/Alaska Native,Not Hispanic,Stranger,Handgun,0,0,FBI
+ID00301,Chubbuck,Municipal Police,Bannock,Idaho,1980,August,1,Murder or Manslaughter,Yes,Female,4,White,Not Hispanic,Female,18,Native American/Alaska Native,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+ID00302,Pocatello,Municipal Police,Bannock,Idaho,1980,January,1,Murder or Manslaughter,Yes,Male,19,White,Not Hispanic,Male,22,White,Not Hispanic,Acquaintance,Rifle,0,0,FBI
+ID00302,Pocatello,Municipal Police,Bannock,Idaho,1980,October,1,Manslaughter by Negligence,Yes,Male,3,White,Not Hispanic,Male,30,White,Not Hispanic,Unknown,Unknown,0,0,FBI
+ID00500,Benewah,Sheriff,Benewah,Idaho,1980,November,1,Manslaughter by Negligence,Yes,Male,28,White,Not Hispanic,Male,31,White,Not Hispanic,In-Law,Rifle,0,0,FBI
+ID00602,Blackfoot,Municipal Police,Bingham,Idaho,1980,December,1,Murder or Manslaughter,Yes,Male,33,White,Hispanic,Male,27,White,Hispanic,Acquaintance,Knife,0,0,FBI
+ID01002,Idaho Falls,Municipal Police,Bonneville,Idaho,1980,November,1,Murder or Manslaughter,Yes,Female,25,White,Not Hispanic,Male,32,White,Hispanic,Wife,Handgun,0,0,FBI
+ID01401,Caldwell,Municipal Police,Canyon,Idaho,1980,April,1,Murder or Manslaughter,No,Male,51,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Shotgun,0,1,FBI
+ID01402,Nampa,Municipal Police,Canyon,Idaho,1980,January,1,Murder or Manslaughter,Yes,Male,45,White,Hispanic,Male,31,White,Not Hispanic,Acquaintance,Knife,0,0,FBI
+ID01600,Cassia,Sheriff,Cassia,Idaho,1980,October,1,Murder or Manslaughter,Yes,Male,23,White,Not Hispanic,Male,28,White,Not Hispanic,Acquaintance,Blunt Object,0,1,FBI
+ID01601,Burley,Municipal Police,Cassia,Idaho,1980,March,1,Murder or Manslaughter,Yes,Male,2,White,Not Hispanic,Male,20,White,Not Hispanic,Acquaintance,Blunt Object,0,0,FBI
+ID01601,Burley,Municipal Police,Cassia,Idaho,1980,September,1,Murder or Manslaughter,Yes,Male,27,White,Not Hispanic,Male,63,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+ID01601,Burley,Municipal Police,Cassia,Idaho,1980,September,2,Murder or Manslaughter,Yes,Male,17,White,Hispanic,Male,32,White,Hispanic,Neighbor,Rifle,0,0,FBI
+ID01900,Custer,Sheriff,Custer,Idaho,1980,September,1,Murder or Manslaughter,Yes,Male,52,White,Not Hispanic,Male,47,White,Not Hispanic,Acquaintance,Handgun,0,0,FBI
+ID02002,Mountain Home,Municipal Police,Elmore,Idaho,1980,May,1,Murder or Manslaughter,Yes,Male,22,White,Not Hispanic,Male,22,White,Not Hispanic,Acquaintance,Knife,0,0,FBI
+ID02301,Emmett,Municipal Police,Gem,Idaho,1980,February,1,Murder or Manslaughter,No,Male,30,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,1,FBI
+ID02400,Gooding,Sheriff,Gooding,Idaho,1980,December,1,Murder or Manslaughter,No,Male,21,White,Hispanic,Unknown,0,Unknown,Unknown,Unknown,Blunt Object,0,0,FBI
+ID02801,Coeur D'Alene,Municipal Police,Kootenai,Idaho,1980,December,1,Murder or Manslaughter,Yes,Female,0,White,Not Hispanic,Male,26,White,Not Hispanic,Daughter,Blunt Object,0,0,FBI
+ID03401,Rupert,Municipal Police,Minidoka,Idaho,1980,April,1,Murder or Manslaughter,Yes,Male,46,White,Not Hispanic,Female,42,White,Not Hispanic,Husband,Shotgun,0,0,FBI
+ID03700,Owyhee,Sheriff,Owyhee,Idaho,1980,November,1,Murder or Manslaughter,No,Male,45,White,Not Hispanic,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,1,FBI
+ID03901,American Falls,Municipal Police,Power,Idaho,1980,February,1,Murder or Manslaughter,Yes,Female,0,White,Not Hispanic,Female,21,White,Not Hispanic,Mother,Blunt Object,0,0,FBI
+ID04001,Kellogg,Municipal Police,Shoshone,Idaho,1980,August,1,Murder or Manslaughter,No,Male,47,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+ID04401,Weiser,Municipal Police,Washington,Idaho,1980,August,1,Murder or Manslaughter,Yes,Male,23,White,Hispanic,Male,26,White,Hispanic,Stranger,Handgun,0,0,FBI
